@@ -1,0 +1,28 @@
+name: Massage Nirvana
+favicon: null
+layout_spectrum: 0.1725597376935184
+typography_spectrum: 0.0036969436332583427
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5234977395739406
+  lightness: 0.6109408943448216
+  saturation: 0.6953728427179158
+  rhythmicContrast: 0.45212877285666764
+purpose: []
